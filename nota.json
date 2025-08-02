@@ -1,8 +1,9 @@
 {
-  "mostrar": true,
+  "mostrar": false,
   "titulo": "Actualización 1.2 disponible",
   "mensaje": "Se agregaron nuevos reportes y mejoras de rendimiento.",
   "imagen": "https://miguelcorahuactzi.github.io/actualizaciones/banner.jpg",
   "fecha": "2025-08-02"
 }
+
 
